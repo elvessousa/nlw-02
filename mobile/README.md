@@ -4,7 +4,7 @@
 
 # Mobile
 
-![Tela](../.github/mobile-home.png)
+![Tela](../.github/mobile.png)
 _Telas do aplicativo_
 
 ---
